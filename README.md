@@ -8,7 +8,8 @@ api using [ai-jsx](https://www.npmjs.com/package/ai-jsx)
 ## How to run
 
 Add your OpenAI API Key to `.env`. The variable name should be
-`OPENAI_API_KEY`. Make sure you have credits
+`OPENAI_API_KEY`. Make sure you have credits on your OpenAI account
+or you won't be able to use their API
 
 `yarn install`
 
