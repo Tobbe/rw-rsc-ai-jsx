@@ -20229,6 +20229,46 @@ __metadata:
   languageName: node
   linkType: hard
 
+"vite@patch:vite@npm%3A4.4.9#./.yarn/patches/vite-npm-4.4.9-e845c1bbf8.patch::locator=root-workspace-0b6124%40workspace%3A.":
+  version: 4.4.9
+  resolution: "vite@patch:vite@npm%3A4.4.9#./.yarn/patches/vite-npm-4.4.9-e845c1bbf8.patch::version=4.4.9&hash=50eabf&locator=root-workspace-0b6124%40workspace%3A."
+  dependencies:
+    esbuild: ^0.18.10
+    fsevents: ~2.3.2
+    postcss: ^8.4.27
+    rollup: ^3.27.1
+  peerDependencies:
+    "@types/node": ">= 14"
+    less: "*"
+    lightningcss: ^1.21.0
+    sass: "*"
+    stylus: "*"
+    sugarss: "*"
+    terser: ^5.4.0
+  dependenciesMeta:
+    fsevents:
+      optional: true
+  peerDependenciesMeta:
+    "@types/node":
+      optional: true
+    less:
+      optional: true
+    lightningcss:
+      optional: true
+    sass:
+      optional: true
+    stylus:
+      optional: true
+    sugarss:
+      optional: true
+    terser:
+      optional: true
+  bin:
+    vite: bin/vite.js
+  checksum: 3c44c5701fdfeb0096aacaf83f4838b52347eb89526b71615ba6d6b881216fe4a4a9f9795a6cfaaff7da658c51cd55d6234cd7c3f3f4ce82620e614c44841b7c
+  languageName: node
+  linkType: hard
+
 "vm-browserify@npm:^1.0.1":
   version: 1.1.2
   resolution: "vm-browserify@npm:1.1.2"
