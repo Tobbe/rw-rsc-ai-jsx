@@ -26,3 +26,12 @@ or you won't be able to use their API
 1. Look at the imports in `App.tsx`. RW's RSC implementation is compatible with
    packages built for NextJS.
 2. Talk to the bot 🤖
+
+## List of Redwood RSC demos
+
+ 1. https://github.com/Tobbe/rw-rsc-client-counter
+ 2. https://github.com/Tobbe/rw-rsc-suspense
+ 3. https://github.com/Tobbe/rw-rsc-server-mutation
+ 4. https://github.com/Tobbe/rw-rsc-rsf-return-value
+ 5. https://github.com/Tobbe/rw-rsc-form-server-action
+ 6. https://github.com/Tobbe/rw-rsc-ai-jsx
